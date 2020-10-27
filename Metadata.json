@@ -1,0 +1,20 @@
+{
+    "Author": "vieiraae",
+    "ContentSize": 5356,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/set-resource-group-tags-on-child-resources/master/SetResourceGroupTagsOnChildResources.ps1",
+    "DownloadCount": 1139,
+    "Id": "Set-Resource-Group-Tags-On-a3093849",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 171,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-5-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Powershell Runbook iterates through the resource groups in a Subscription and copy tags to his child resources.",
+    "Title": "Set Resource Group Tags On Child Resources",
+    "UpdatedDate": "2018-6-14T00:00:00",
+    "Url": "https://github.com/azureautomation/set-resource-group-tags-on-child-resources",
+    "UserTags": "Microsoft Azure, Powershell, Powershell Script"
+}
